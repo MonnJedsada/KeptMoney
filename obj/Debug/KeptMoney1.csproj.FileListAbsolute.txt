@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\bin\Debug\KeptMoney1.exe.config
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\bin\Debug\KeptMoney1.exe
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\bin\Debug\KeptMoney1.pdb
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\App.g.cs
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1_MarkupCompile.cache
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1_MarkupCompile.lref
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1.g.resources
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1.Properties.Resources.resources
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1.exe
+C:\Users\Asus\source\repos\KeptMoney1\KeptMoney1\obj\Debug\KeptMoney1.pdb
